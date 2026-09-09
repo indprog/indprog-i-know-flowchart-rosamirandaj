@@ -1,0 +1,4 @@
+I am working on DTU homework.
+Input the number of assignments completed.
+If the number of assignments completed is greater than or equal to the number of assignments required, output "Homework finished".
+Otherwise, output "More homework needed".
